@@ -1,2 +1,2 @@
 " Disable spell check for IFC (.ifc) files
-setlocal nospell
+autocmd FileType ifc setlocal nospell
